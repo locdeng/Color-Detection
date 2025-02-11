@@ -45,6 +45,6 @@ This project is built using **OpenCV**, **NumPy**, and **Scikit-Learn** for imag
 
 ## Result
 ![Image](https://github.com/user-attachments/assets/7577b8ee-9b74-4467-ae98-9c2b87ac4ac7)
-![Image](https://github.com/user-attachments/assets/xv-1dbf-40fd-a8c5-30ead11de4f9)
 ![Image](https://github.com/user-attachments/assets/493d0ef4-2a95-4823-8ece-7e1874d59c29)
+![Image](https://github.com/user-attachments/assets/c03cc710-5b14-4387-8209-039344fd520a)
 
